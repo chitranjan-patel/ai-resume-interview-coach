@@ -1,0 +1,16 @@
+# requirements.txt
+
+# Core web framework
+streamlit
+
+# For processing PDF and .docx files
+PyMuPDF
+python-docx
+
+# For creating charts
+matplotlib
+
+# Core LangChain libraries for AI integration
+langchain
+langchain-core
+langchain-google-genai
