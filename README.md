@@ -8,6 +8,12 @@
 </p>
 
 <p align="center">
+  <a href="https://ai-resume-interview-coach.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-Try_Now_🔥-red?style=for-the-badge&logo=streamlit" alt="Live Demo" />
+  </a>
+</p>
+
+<p align="center">
   <b>🌟 An Advanced AI-Powered Tool to Optimize Your Resume and Ace Your Interviews! 🌟</b>
 </p>
 
